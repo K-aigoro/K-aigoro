@@ -3,7 +3,7 @@
 <!--
 **K-aigoro/k-aigoro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-🎓 I have a Ph.D. degree in Chemistry and worked as a research scientist in pharmaceutical field.
+###🎓 I have a Ph.D. degree in Chemistry and worked as a research scientist in pharmaceutical field.
 
 Here are some ideas to get you started:
 
