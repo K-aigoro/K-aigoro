@@ -1,5 +1,5 @@
 #                                            Hi there 👋 I'm Kazeem Aigoro
-                                 Frontend Developer and Aspiring Cybersecurity Novice
+                   Frontend Developer and Aspiring Cybersecurity Novice
 ## 💫 About Me:
 
 🎓 I have a B.Sc degree in Computer science and worked as a Frontend developer.
