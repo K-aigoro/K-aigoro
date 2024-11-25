@@ -4,7 +4,7 @@
 
 🎓 I have a B.Sc degree in Computer science and worked as a Frontend developer.
 
-🌱 I’m currently learning React.js and TailwindCss
+🌱 I’m currently learning Python and DevOps
 
 👯 I’m looking to collaborate on the Frontend project and cybersecurity.
 
